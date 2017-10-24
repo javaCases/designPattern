@@ -1,8 +1,11 @@
 # Compiled class file
 *.class
+*.iml
+
 
 # Log file
 *.log
+
 
 # BlueJ files
 *.ctxt
@@ -26,7 +29,6 @@ hs_err_pid*
 target/
 .classpath
 .project
-.iml
 
 .DS_Store
 nbproject
